@@ -1,3 +1,7 @@
+# reference:
+# http://www.geeksforgeeks.org/calculate-xor-1-n/
+
+
 import timeit
 
 start1 = timeit.default_timer()
