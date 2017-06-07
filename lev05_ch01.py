@@ -1,6 +1,6 @@
 # reference:
 # https://oeis.org/A001951
-# https://math.stackexchange.com/questions/2052179/how-to-find-sum-i-1n-left-lfloor-i-sqrt2-right-rfloor-a001951-a-beatty-s
+# https://en.wikipedia.org/wiki/Beatty_sequence
 
 from decimal import *
 import timeit
